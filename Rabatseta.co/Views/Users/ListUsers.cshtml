@@ -1,0 +1,93 @@
+﻿
+@{
+    var userIdentityViewModel = ViewBag.UserData;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListUsers</title>
+</head>
+<body>
+    <div id="content">
+        <table>
+            <caption>Listing All Built Users</caption>
+            <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Surname
+                </th>
+                <th>
+                    Id Number
+                </th>
+                <th>
+                    Gender
+                </th>
+                <th>
+                    Year Of Birth
+                </th>
+                <th>
+                    Month Of Birth
+                </th>
+                <th>
+                    Age
+                </th>
+                <th>
+                    Guid Id
+                </th>
+            </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th class="thTotalLabel" colspan="3">
+                        Total Number Of Users
+                    </th>
+                    <th colspan="3" class="thTotalValue">
+                        @userIdentityViewModel.UserData.Count
+                    </th>
+                </tr>
+            </tfoot>
+            <tbody>
+                @if (userIdentityViewModel != null && userIdentityViewModel.UserData.Count > 0)
+                {
+                    foreach (var userItem in userIdentityViewModel.UserData)
+                    {
+                        <tr>
+                            <td>
+                                @userItem.Name
+                            </td>
+                            <td>
+                                @userItem.Surname
+                            </td>
+                            <td>
+                                @userItem.IdNumber
+                            </td>
+                            <td>
+                                @userItem.Gender
+                            </td>
+                            <td>
+                                @userItem.YearOfBirth
+                            </td>
+                            <td>
+                                @userItem.MonthOfBirth
+                            </td>
+                            <td>
+                                [@userItem.Age]
+                            </td>
+                            <td>
+                                @userItem.SysUserId
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+        </table>
+    </div>
+</body>
+</html>

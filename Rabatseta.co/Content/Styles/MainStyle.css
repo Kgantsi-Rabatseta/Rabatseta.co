@@ -1,0 +1,148 @@
+﻿/*Sections*/
+body {
+    background: linear-gradient(white, lightgreen);
+    background-repeat: no-repeat;
+    min-height: 600px;
+    min-width: 600px;
+}
+
+footer {
+    background-color: orangered;
+    border-top: 1px outset orange;
+    bottom: 0px;
+    color: white;
+    height: 50px;
+    left: 0px;
+    padding: 20px;
+    padding-top: 5px;
+    position: fixed;
+    width: 100%;
+}
+
+header {
+    background-color: red;
+    border-bottom: 1px outset black;
+    color: maroon;
+    height: 75px;
+    left: 0px;
+    padding: 20px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 100;
+}
+
+/* Headings*/
+
+h1 {
+    background-color: purple;
+    color: Blue;
+}
+
+/*Table components*/
+table {
+    border-color: gold;
+    border-style: outset;
+    border-width: 3px;
+    overflow: scroll;
+    display: flex;
+}
+
+th.thTotalLabel {
+   background-color: black;
+    color: white;
+}
+
+th.thTotalValue {
+  background-color: black;
+    color: white;
+}
+
+td {
+    border-color: gold;
+    border-style: outset;
+    border-width: 3px;
+    padding: 5px;
+}
+
+th {
+    background-color: limegreen;
+    border-color: gold;
+    border-style: outset;
+    border-width: 3px;
+}
+
+caption {
+    background-color: limegreen;
+    border-bottom: 3px gold outset;
+    border-left: 3px gold outset;
+    border-right: 3px gold outset;
+    border-top: 3px gold outset;
+    font-weight: bold;
+    padding-bottom: 3px;
+    padding-top: 5px;
+    z-index: 99;
+}
+
+/*Links and hyperlinks*/
+a {
+    background-color: grey;
+    border-radius: .5em;
+    border-style: outset;
+    box-shadow: -5px 5px 10px maroon;
+    color: white;
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 4px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+
+
+   
+    
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+
+       
+    transform: translate(200px,100px) rotate(30deg);
+    -ms-transform:  rotate(-5deg) skew(-15deg);
+    -moz-transform: translate(200px,100px) rotate(30deg);
+    -o-transform:  rotate(30deg);
+    -webkit-transform:  rotate(30deg);
+}
+
+
+/*Text Containers*/
+span.timeSpan {
+    background-color: white;
+    border: 3px grey outset;
+    border-bottom-left-radius: .2em;
+    border-bottom-right-radius: .2em;
+    box-shadow: 3px 3px grey;
+    color: black;
+    font-size: 18pt;
+    font-weight: bold;
+    left: -75px;
+    margin-left: 50%;
+    opacity: 0.75;
+    padding: 3px;
+    position: fixed;
+    text-align: center;
+    text-decoration: none;
+    top: -2px;
+    width: 150px;
+    z-index: 99999;
+}
+
+#bodySection {
+    padding-bottom: 70px;
+    padding-top: 120px;
+}
+
+/*Input Elements*/
+

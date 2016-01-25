@@ -1,0 +1,49 @@
+﻿
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create User</title>
+</head>
+<body>
+<h1>Add User</h1>
+<div id="addUserForm">
+    <form id="userDetails" method="POST" action="">
+        <fieldset>
+            <label for="sysUName">Name</label>
+            <input type="text" name="sysUName" autofocus placeholder="Type your name"/>
+        </fieldset>
+        <fieldset>
+            <label for="sysUSurname">Surname</label>
+            <input type="text" name="sysUSurname"  placeholder="Type your surname"/>
+        </fieldset>
+        <fieldset>
+            <label for="sysUUsername">User Name</label>
+            <input type="text" name="sysUUsername" required placeholder="Type your username"/>
+        </fieldset>
+        <fieldset>
+            <label for="sysUEmail">E-mail Address</label>
+            <input type="email" name="sysUEmail" required placeholder="Type your e-mail address"/>
+        </fieldset>
+        <fieldset>
+            <label for="sysUIdNumber">Id Number</label>
+            <input type="number"  name="sysUIdNumber" required maxlength="13" placeholder="Type your Id Number"/>
+        </fieldset>
+        <fieldset>
+            <label for="sysUPassword" >Password</label>
+            <input type="password"  name="sysUPassword" required placeholder="Enter password" />
+        </fieldset>
+        <fieldset>
+            <label for="sysUConfirmPassword">Confirm Password</label>
+            <input type="password" name="sysUConfirmPassword" required placeholder="Type your password confirmation"/>
+        </fieldset>
+        <input type="submit" value="Add User">
+    </form>
+</div>
+</body>
+</html>

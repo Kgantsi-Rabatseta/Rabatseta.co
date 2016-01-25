@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\bin\Debug\Data.dll.config
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\bin\Debug\Data.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\bin\Debug\Data.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\obj\Debug\Data.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Data\obj\Debug\Data.pdb

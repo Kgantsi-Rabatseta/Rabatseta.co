@@ -1,0 +1,48 @@
+﻿@using Rabatseta.co.Controllers.Home
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Rabatseta.co</title>
+    @Styles.Render("~Content/Styles")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="text/javascript" src="~/JavaScript/LocalStorages.js"></script>
+    <script type="text/javascript" src="~/JavaScript/TimeScript.js"></script>
+    <link href="../../Content/Styles/MainStyle.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+   
+<header>
+
+    <span id="timeS" class="timeSpan">Time</span>
+    <script type="text/javascript">window.onload = setTimeS("timeS");</script>
+
+    @Html.ActionLink("Rabatseta.co", "Home", "Home", new {area = ""}, new {@class = "navbar-link"})
+    <br/><br/>
+    <hr/>
+    <nav>
+        @Html.ActionLink("Home", "Home", "Home")
+        @Html.ActionLink("About", "About", "Home")
+        @Html.ActionLink("Users", "ListUsers", "Users")
+        @Html.ActionLink("Downloads", "DownloadsHome", "ClientFiles")
+        @Html.ActionLink("Add User","CreateSysUser","Users")
+    </nav>
+</header>
+
+<hr/>
+<section class="container body-content" id="bodySection">
+    @RenderBody()
+    
+</section>
+<footer>
+    <p>&copy; @DateTime.Now.Year - Rabatseta.co </p>
+    Date: <time id="dateTimeLocal"></time>
+    <script type="text/javascript">window.onload = setDateS("dateTimeLocal");</script>
+</footer>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+</body>
+</html>
