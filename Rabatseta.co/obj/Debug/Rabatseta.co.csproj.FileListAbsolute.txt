@@ -42,3 +42,47 @@ C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Rabatseta.co\b
 C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.csprojResolveAssemblyReference.cache
 C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.dll
 C:\Users\Admin\documents\visual studio 2015\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.pdb
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\csc.exe
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\System.Collections.Immutable.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\System.Reflection.Metadata.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\vbc.exe
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\VBCSCompiler.exe
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\roslyn\VBCSCompiler.exe.config
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Rabatseta.co.dll.config
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Rabatseta.co.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Rabatseta.co.pdb
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Antlr3.Runtime.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Builders.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Data.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Microsoft.Web.Infrastructure.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Newtonsoft.Json.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Helpers.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Mvc.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Optimization.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Razor.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.Deployment.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.Razor.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\WebGrease.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Builders.pdb
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Data.pdb
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Antlr3.Runtime.pdb
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\Newtonsoft.Json.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Helpers.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Mvc.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Optimization.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.Razor.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.Deployment.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\bin\System.Web.WebPages.Razor.xml
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.csprojResolveAssemblyReference.cache
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.dll
+C:\Kgantsi-Stuff\Projects\Rabatseta.co\Rabatseta.co\obj\Debug\Rabatseta.co.pdb

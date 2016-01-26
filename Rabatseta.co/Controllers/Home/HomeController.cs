@@ -23,5 +23,12 @@ namespace Rabatseta.co.Controllers.Home
             return View();
         }
 
+        public ActionResult Login()
+        {
+
+            ViewBag.MyName = "kGANTSI";
+            return View();
+        }
+
     }
 }
