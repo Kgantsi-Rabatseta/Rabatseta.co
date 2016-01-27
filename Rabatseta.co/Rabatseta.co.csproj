@@ -172,6 +172,7 @@
     <Content Include="Views\Users\CreateSysUser.cshtml" />
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Login\LoginPage.cshtml" />
+    <Content Include="Views\Login\ExternalLoginConfirmation.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
